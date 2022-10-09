@@ -13,6 +13,16 @@ body{
     margin-top: 200px;
     margin-left: 280px;
 }
+.contenedort{
+    width: 75%;
+    margin-top: 10px;
+    margin-left: 150px;
+    align-items: center;
+    text-align: center;
+}
+.tabla{
+    margin-top: 40px;
+}
 h1{
     color: #CCCCCC;
     font-size: 20px;
